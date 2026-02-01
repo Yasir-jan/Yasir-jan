@@ -41,4 +41,6 @@ I am a passionate student and developer from **Pakistan 🇵🇰**, actively lea
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+---
+### 🏆 My GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yasir-jan&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
