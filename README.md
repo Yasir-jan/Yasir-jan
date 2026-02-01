@@ -42,5 +42,6 @@ I am a passionate student and developer from **Pakistan 🇵🇰**, actively lea
   </a>
 </p>
 ---
+
 ### 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yasir-jan&theme=radical&no-frame=true&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
